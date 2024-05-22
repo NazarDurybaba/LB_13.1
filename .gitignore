@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/LB_13.1/FileContentIndex
+/.vs/LB_13.1/v17
+/x64/Debug
+/UnitTest1/x64/Debug
